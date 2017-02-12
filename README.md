@@ -1,2 +1,2 @@
 # ARO402
-Numerical Methods using MATLAB implementation
+Numerical Methods Assignments using MATLAB implementation
